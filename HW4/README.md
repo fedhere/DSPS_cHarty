@@ -1,1 +1,1 @@
-
+We all met up on Saturday to do the lab. I wrote the derivation and data ingestion part on my own the day prior, and compared with the rest of the group when we met up. Desi helped the group with writing the functions. Each of use proofread and error tested his functions and gave feedback.
