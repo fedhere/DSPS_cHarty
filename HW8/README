@@ -1,6 +1,6 @@
 Catherine Harty
 
-My plot focused on the price per avocado in 4 different cities in different regions of the US. 
+My plot focused on the price per avocado in 4 different cities in different regions of the US over the course of 2 years (2016-2018). 
 The places focused on were Atlanta, GA, Philadelphia, PA, Denver, CO, and Chicago, IL. I used the default python colors and gave
 each dataset a different shape to make it color blind friendly. I also made the data somewhat transparent so no points are 
 completely hidden. The results showed that avocados in Denver and Atlanta tend to be cheaper than avocados in Chicago and Philadelphia.
