@@ -24,3 +24,10 @@ markers. It definitely helped trying to understand such a large amount of data.
 Overall, a good plot and a great topic. I love avocados:)
 
 ![Plot of Avocados](https://raw.githubusercontent.com/cath19/DSPS_cHarty/master/HW8/plot.png)
+
+
+# FBB
+
+good points and well presented
+
+100%
